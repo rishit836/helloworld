@@ -1,1 +1,2 @@
-
+mvn archetype:generate -DgroupId=com.javatpoint -DartifactId=CubeGenerator  
+-DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false  
